@@ -143,4 +143,4 @@ window.addEventListener('DOMContentLoaded', () => {
     const modalTimerId = setTimeout();
 });
 
-// 12.012
+// 12.012 
